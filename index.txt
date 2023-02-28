@@ -1,0 +1,12 @@
+git init
+git status
+git add
+git commit
+git checkout
+git diff
+git show
+
+
+Options
+--amend
+--color-words
