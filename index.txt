@@ -3,8 +3,10 @@ git status
 git add
 git commit
 git checkout
+git log
 git diff
 git show
+git revert
 
 
 Options
