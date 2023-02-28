@@ -1,3 +1,4 @@
+git config (--global)
 git init
 git status
 git add
