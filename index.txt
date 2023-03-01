@@ -12,6 +12,11 @@ git clean (-i, -n, -f) - delete/remove untracked files
     git clean -n = dry run
     git clean -f = remove
 
+git rm --cache <filename>
+    --> ignore tracked file
+
+
+
 Options
 --amend
 --color-words
