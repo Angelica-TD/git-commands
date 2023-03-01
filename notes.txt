@@ -1,0 +1,2 @@
+To track empty directories:
+  create a file and name it .gitkeep
